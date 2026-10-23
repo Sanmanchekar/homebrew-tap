@@ -1,8 +1,8 @@
 class Agentglance < Formula
   desc "Activity Monitor for AI agents: see what Claude/Codex started and clean it up"
   homepage "https://github.com/Sanmanchekar/agentglance"
-  url "https://github.com/Sanmanchekar/agentglance/releases/download/v0.1.1/agentglance-0.1.1-macos-universal.tar.gz"
-  sha256 "a481da57f590cfd72f6b2918fd13b644fb022c8abf059569862faa26c669f679"
+  url "https://github.com/Sanmanchekar/agentglance/releases/download/v0.1.2/agentglance-0.1.2-macos-universal.tar.gz"
+  sha256 "a63e40415d76d844ebf7de5e707fa2cf15672c7f6751e4969e8bca6407a9a507"
   license "MIT"
 
   depends_on macos: :sonoma
