@@ -7,7 +7,7 @@ cask "agentglance-app" do
   desc "Menu bar Activity Monitor for AI agents"
   homepage "https://github.com/Sanmanchekar/agentglance"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "AgentGlance.app"
 
