@@ -1,6 +1,6 @@
 cask "agentglance-app" do
-  version "0.1.2"
-  sha256 "6a29cc5378c00c01754e6bc6b1d3ccdc60d0b35fbd4886943f21a25748c66758"
+  version "0.1.3"
+  sha256 "0e4f45a052d69c1c8a3978969f2dafd6e525190d26ea9e3c9e27ffe8f8d5a031"
 
   url "https://github.com/Sanmanchekar/agentglance/releases/download/v#{version}/AgentGlance-#{version}.zip"
   name "AgentGlance"
